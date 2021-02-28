@@ -1,3 +1,11 @@
+# Hackathon Submission
+This project is being submittedin Hackverse 2.0 hackathon.
+**Team Name:** Hack404
+**Contributors:** Achalesh Lakhotiya
+              Vishvas Bansal
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
